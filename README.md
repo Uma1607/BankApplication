@@ -1,4 +1,4 @@
-# BankApplication
+# Java Bank Application
 
 ## Overview
 The Bank Application is a simple Java-based program designed to manage user bank accounts. It uses basic functions, conditional statements, and loops to perform essential banking operations.
